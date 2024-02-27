@@ -2,8 +2,7 @@
 title = "About"
 date = "2019-01-25"
 author = "Roman"
+framed=true
 +++
 
-# Hi there
-
-I'm Roman and this is a course on LLM
+Course on LLM and NLP

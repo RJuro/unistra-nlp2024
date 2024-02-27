@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://rjuro.com/unistra-nlp2024/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
@@ -15,8 +15,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "UNISTRA NLP/LLM 2024"
+    subtitle = "Natural Language Processing and Large Language Models - Roman Jurowetzki"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -30,7 +30,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "UNISTRA NLP/LLM"
       logoHomeLink = "/"
     # or
     #
@@ -42,7 +42,3 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
