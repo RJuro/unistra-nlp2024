@@ -1,4 +1,4 @@
-baseurl = "https://rjuro.com/unistra-nlp2024/"
+baseurl = "https://rjuro.com/unistra-nlp2024"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
@@ -31,7 +31,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "UNISTRA NLP/LLM"
-      logoHomeLink = "/"
+      logoHomeLink = "https://rjuro.com/unistra-nlp2024"
     # or
     #
     # path = "/img/your-example-logo.svg"
