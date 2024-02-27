@@ -1,21 +1,13 @@
 +++
-title = "Hello Friend"
-date = "1986-09-17"
-author = "Elliot"
-cover = "img/hello.jpg"
-description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
+title = "NLP 101 - Simple Classification"
+cover = "https://source.unsplash.com/wqLGlhjr6Og"
+description = "Classify political tweets"
 +++
 
-> "Hello, friend?" That's lame.
-> Maybe I should give you a name...
-> But that's a slippery slope.
-> You're only in my head.
-> We have to remember that...
-> Shit.
-> It's actually happened.
-> I'm talking to an imaginary person.
->
-> **— Mr. Robot S01E01**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rjuro/unistra-nlp2024/blob/main/notebooks/UNISTRA-01-NLP101-Classification.ipynb)
 
 
 
+
+https://source.unsplash.com/wqLGlhjr6Og
