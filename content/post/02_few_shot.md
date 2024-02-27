@@ -2,6 +2,7 @@
 title = "When there are no labels"
 cover = "https://source.unsplash.com/KKtEXWJaSv8"
 description = "Classify political tweets"
+weight = 2
 +++
 
 Train a classifier with SetFit and Argilla using few-shot learning - and some manual labeling.

@@ -2,6 +2,7 @@
 title = "NLP 101 - Simple Classification"
 cover = "https://source.unsplash.com/wqLGlhjr6Og"
 description = "Classify political tweets"
+weight = 1
 +++
 
 
