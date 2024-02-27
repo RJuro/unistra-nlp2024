@@ -1,4 +1,4 @@
-baseurl = "https://rjuro.com/unistra-nlp2024"
+baseurl = "https://rjuro.com/unistra-nlp2024/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5

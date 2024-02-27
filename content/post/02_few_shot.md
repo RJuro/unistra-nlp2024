@@ -1,7 +1,7 @@
 +++
 title = "When there are no labels"
 cover = "https://source.unsplash.com/KKtEXWJaSv8"
-description = "Classify political tweets"
+description = "Classify text with few-shot learning and manual labeling"
 weight = 2
 +++
 
