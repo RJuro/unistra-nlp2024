@@ -1,0 +1,725 @@
+Wondery (0s):
+Wondery Plus subscribers can listen to How I Built This Early, and ad free Right. now join Wondery Plus in the Wondery app or on Apple podcasts.
+
+Delta Skymiles (10s):
+Today's business travelers are finding that fitting in a little leisure time keeps 'em recharged and excited on work trips. I know this because whenever I travel for work, I always try and meet up with a friend to catch up, have a great dinner, or hit a museum wherever I am. So if you are traveling for work, go with the card that puts the Travel in Business Travel the Delta skymile Platinum Business American Express card.
+
+ZipRecruiter (37s):
+If you travel, you know our friends at ZipRecruiter recently conducted a survey and found that the top hiring challenge employers face in 2024 is a lack of qualified candidates. But if you are an employer and you need to hire, here's the good news. ZipRecruiter has smart tools and features that help you find more qualified candidates fast. And right now you can try it for free. At ZipRecruiter dot com slash built ZipRecruiter shows you candidates whose skills and experience match your needs. Then you can send your top candidates a personalized invite, encouraging them to apply. Let ZipRecruiter help you conquer the biggest hiring challenge, finding qualified candidates. See why four out of five employers who post on ZipRecruiter get a quality candidate within the first day. Just go to this exclusive web address right now to try ZipRecruiter for free. ZipRecruiter dot com slash built. Again, that's ZipRecruiter dot com slash B-U-I-L-T. ZipRecruiter. The smartest way to hire
+
+Via Tour (1m 45s):
+experiences are what people love the most about travel. Recently I took my kids to the UK to see some English premier football and it was incredible. Via Tour is a website and app where you can book travel experiences. Everything from simple tours to extreme adventures Via Tour has real traveler reviews to help you find the best activity for your trip. There's something for everyone. Plus, when you book a travel experience with Via tour, there's always flexibility with free cancellation and 24 7 service, download the Via tour app now and use code via tour 10 for 10% off your first booking in the app. One app over 300,000 travel experiences you'll remember do more with via tour.
+
+2 (2m 34s):
+When you're leading people, you bring them through your ups and downs. So you really have to be mindful of that so that you're, when you're having a down or you're having an up, you don't bring them all the way with you. Yeah. And I found myself after 25 years of startup companies, I was looking more for the downsides than I was the upsides. Yeah. I'd run into people like that. I didn't want to be that person. And that's not the person you want leading you.
+
+0 (3m 1s):
+You were becoming the person that you encountered in 2002 who said to you, oh, this can never be done.
+
+2 (3m 7s):
+Exactly. Exactly. And who wants that in the company?
+
+0 (3m 18s):
+Welcome to How I. Built This. A show about innovators, entrepreneurs, idealists, and the stories behind the movements they built. I'm Guy Raz and on the show today how John MacFarlane and his partners figured out how to fill a house with music without wires and launched Sonos, a brand that does over a billion dollars a year in business. Why do some consumer products survive even when the odds seem stacked against them? This is a question I always wondered about Sonos.
+
+0 (3m 58s):
+Sonos of course, makes wireless speakers, in fact really good wireless speakers. They usually rate really high on review sites, but I always figured it was just a matter of time before Google or Amazon or Apple or Samsung or any other tech giant would just come along and eat Sonos for lunch. After all, each one of those companies makes wireless speakers and in many cases, much cheaper ones. But Sonos has not only survived, it's thrived. The company was founded in 2002 back when most people listened to music on CDs. At that time, music streaming was barely a thing.
+
+0 (4m 38s):
+There was Rhapsody, but very few people used it. And if you wanted surround sound in your house, you had to wire it up and drill into your walls to connect those wires. But John MacFarlane and his partner as Craig Shelburn, Tom Cullen and Tru Mai all imagined a world of seamless, high quality wireless listening. And to achieve that, they literally had to invent the technology to make it possible. But it would take several years before Sonos would catch on. And then once it did, everyone else copied the idea. But instead of competing on price, Sonos double down on sound quality.
+
+0 (5m 20s):
+And that strategy worked. Today the company sells more than a billion and a half dollars worth of speakers a year. And it's one of the most successful brands to come out of the small coastal city of Santa Barbara in California. John MacFarlane grew up in Denver and studied electrical engineering in college in the early 1990s. He was in a PhD program at uc, Santa Barbara. And he would soon start his first business, a software company. But At, the time he was experimenting with the early internet and seeing how it can be used to communicate with other countries. In his case, Russia,
+
+2 (5m 58s):
+If you remember. That's right. When the breakup of the Soviet Union was happening and Russia had some really specialized scientific centers, these secret cities, and to exchange information with them, there was no real easy way to mail them anything or anything like that. You use this thing called the internet. And now it didn't always work reliably. So you had to kind of understand how it worked. And I became the expert in the lab on doing that. So I was the go-to person for getting anything data related in and out of Russia At the time. And that just kind of hooked me. So I dove more and more in, and that was the genesis of the first company I started because another grad student and I were sitting around talking about how big this thing the internet would be and we thought we should go off and start a company.
+
+0 (6m 51s):
+So this is why your grad student, you met another student. What was the student's name?
+
+2 (6m 55s):
+Mike Dico.
+
+0 (6m 56s):
+Alright, so you and Mike said let's start a company and what, what would that company do?
+
+2 (7m 2s):
+Yeah, the idea was to sell software over the net. So if you go back to that time, this was 1992, if you bought some software, it came on a stack of 20 floppy discs. And maybe they were the small ones in the little plastic, the three and a half inch. Right. A little later it would be a CD rom. But it was a, you know, it was a multi-hour endeavor to get an is it,
+
+0 (7m 27s):
+Put it in a computer and let it upload. Yep. Yeah.
+
+2 (7m 31s):
+And so the idea was have a little piece of software that would fit on one floppy disc, put it in, connect the computer to the internet, and then purchase what you wanted off the internet, put your credit card in and it would in, you know, you'd walk away and it would install all of it.
+
+0 (7m 48s):
+And what was the name of your company?
+
+2 (7m 50s):
+Software.com.
+
+0 (7m 51s):
+Software.com. Yeah, you could, you could register that domain.
+
+2 (7m 55s):
+Oh yeah, that's a funny story. There was a big debate over whether the internet was available for commercial use or for only academic use. Yeah. And you could tell it was gonna go to commercial use. It was just too valuable. So there was one organization that did the domain name registrations and I sent a note in and I just happened to know there was a man and a woman that worked there that decided, and I sent, sent it to Dear Sir or Madam and it landed on the woman's desk and she just immediately approved it and put a little note at the bottom. I've not, I, you know, appreciate that you addressed it to, you know who you did.
+
+2 (8m 37s):
+So
+
+0 (8m 37s):
+That was it.
+
+2 (8m 38s):
+I kept that email for a long time. Yeah, it was pretty funny. Be respectful.
+
+0 (8m 43s):
+So you got software.com and so did you have the, I mean obviously you were an engineer and you'd been self-taught coder, but did you have the technical skills to build the infrastructure that would enable software to be sold online?
+
+2 (9m 1s):
+Yeah. Funny. Funny enough, if you wanted to get on the internet in 92 and 93, you had to build a lot of the software yourself. So yes, we did have the skills to build it or we learned them. Yeah. But while it made a lot of sense, the folks that kind of were the gatekeepers at the big software companies at that time, Microsoft, Borland Lotus, weren't interested in selling their software over the internet. They were more worried about hurting their sales through the conventional channels. Right. And that turned out to be a bigger problem.
+
+0 (9m 40s):
+You couldn't essentially, you realized relatively quickly that that was not gonna be a viable business plan.
+
+2 (9m 47s):
+Yeah, I mean you had to do a lot of evangelizing on what the internet was. 'cause people didn't really know what it was at that moment.
+
+0 (9m 55s):
+Hmm. Alright. And I, I guess, I guess you guys kinda realized you have to pivot away from this initial idea of, of selling software online. And, and I guess what you decide to pivot to was email and, and I mean this is the early 1990s and you know, more and more companies At the time were starting to adopt email, right? Yeah. And so I guess you guys developed like, like the software for an email server to, to sell to companies.
+
+2 (10m 21s):
+Yeah. So one of the things we realized was one of the first thing a company wants to do is add email. So we had put a lot of time into a good email system@software.com and we thought, hey, we can commercialize this and really own that market and made a commercial email servers that was really easy to use. That actually went well because we could sell it over the internet. Of course, we believed in selling software over the internet and we had companies all over the planet buying it.
+
+0 (10m 57s):
+And this is before Microsoft Outlook or Gmail or any of that stuff? That's
+
+2 (11m 2s):
+Correct. Believe it or not, we were about the only thing out there. So right. As the internet kind of shifted to telecom and cable companies, that's where we really focused on. And we, you know, if you were a telecom company anywhere on the planet or a cable company launching an internet service, you were probably using our stuff or we were knocking on your door to use it.
+
+0 (11m 30s):
+Huh. Alright, so you've got this company right, software.com based outta Santa Barbara. And, and you know, you're, you're growing to the point where you, I guess you decide to quit your PhD program. Yeah. And then, and then your company I guess merges with another company. And, and then about a year or two after that you leave. And this is, this is like around 2002 and you, I mean, you're like in your mid thirties and at this point you probably made a ton of money from this business, right? I mean, because, because the internet created all this wealth.
+
+2 (12m 0s):
+Yeah. More money than I had ever met. You know, making money was never the goal. But that said, I, I had been luckier than I should have been. So for sure that's true.
+
+0 (12m 13s):
+I mean at this point you could kind of sit back and surf or what get, get to surfing or whatever you might wanna do in Santa Barbara, open a restaurant or something. I mean, you could, you could have done anything you wanted to.
+
+2 (12m 24s):
+Sure. But I wasn't done. So
+
+0 (12m 26s):
+Did you have a family at that point?
+
+2 (12m 28s):
+Yes. My first son was born in 2000 and my second son was born in 2002. And that, and that was part of the factor my, I remember we were remodeling a guest house on our property and the, my son thought the contractor was his father, not me. So it was a, it was a good warning Yeah. About being a part of their life, which I heated.
+
+0 (12m 54s):
+Yeah. So, alright, so you've got young family and what did you, I mean, did you immediately think, alright, I'm gonna do something else now, now I gotta find my next project? Yeah.
+
+2 (13m 5s):
+I was nowhere near done. I mean here, software.com was just an incredible opportunity 'cause I got to visit almost every country in the world. Wow. And the internet was kind of just getting going. So it had, it had really penetrated most businesses at that point. But as far as affecting you and your home, even internet broadband had only just started. So unless you lived in the Bay Area or certain places, you probably only Inex experience experienced the internet through a dial up Yeah. Modem, if you remember those. Yeah. And so that was kind of the genesis behind Sonos, the four that officially started Sonos, we'd all worked together@software.com.
+
+0 (13m 52s):
+I, I want to go back to that, to that process 'cause I know it didn't happen overnight. Yeah. I mean from what I, I understand you and, and these three other guys from, from software.com, Craig Shelburn, Tom Cohen, and Chung Mai. You came together with some other folks and you decided that you were gonna create something. And this was essentially, this was the dawn of the high speed internet era. This was the beginning of a time where people would start to get to, to move from Dialup to DSL and other ways to access fast internet. When the four of you got together, tell me what do you remember about the process of like ideation, about coming up with ideas? Like what you had some assumptions that you made.
+
+0 (14m 33s):
+So let's start with the assumptions that you made about that time.
+
+2 (14m 36s):
+The basics were, hey, the internet is gonna come into your home. What's it gonna change? So we ranked a bunch of stuff from alarm systems to smart home, to music, to video. Entertainment always popped away up there. And music Napster had come out in 1999. Right. And immediately been sued out of existence. But the idea that you could have your music in the cloud or have access to all the music ever made was a no brainer. And in many ways it was similar to what we had thought about it software.com, because the original idea selling software over the internet, why couldn't music be sold that way or distributed that way?
+
+0 (15m 20s):
+Yeah.
+
+2 (15m 20s):
+Keep in mind it was the day of a hundred disc CD changer or you know, a tape deck. So we started diving into more about how you would enjoy music through your house if the, you know, you could completely take a clean sheet of paper and, and design it. So you kinda went through, you started from what, what's the ideal experience you wanna deliver? And then you work through what that meant.
+
+0 (15m 50s):
+So you mentioned a couple other things like smart homes or alarm systems, all of which would happen. This is, you're having this conversation in 2002,
+
+2 (15m 59s):
+2002, 2003. Yeah.
+
+0 (16m 1s):
+And alarm systems could have been a great thing too, right? Because eventually that that would go wireless. And, and, and that would be more simplified. I mean SimpliSafe is a good example of this. And Ring and other companies do it because at that time, you know, most alarm systems were hardwired, but music was the one you guys landed on because I guess at that time, 2002, if you wanted a really amazing home system and you had the cash, you could put speakers all over your house, it would just have to be wired through the walls. You'd have to drill holes and you know, probably most people would have it done by an outside contractor. It would be very expensive to Do you still see some of those homes with like speakers embedded in the ceilings Yeah.
+
+0 (16m 41s):
+From that time. Yeah. But you wanted to figure out a way to do this and you knew already in 2002 that you wanted to do this wirelessly.
+
+2 (16m 50s):
+Yeah, WiFi was just starting and that that was the only, if you didn't, if you didn't deliver an experience wirelessly, you just weren't you. You shrunk the market tremendously. And I think all of us, the common theme was we all loved music, we all wanted it in different places in the house, not just one room. You wanted to wake up to it, you wanted to listen to it when you were in your kitchen, you wanted to have it in your living room, ideally out in your patio. And we bought some of the systems that you could build into the house and they weren't reliable. They were hard to use, they were expensive, they often failed quickly.
+
+0 (17m 31s):
+These were the wired systems. Yeah. Yeah. And I'm wondering like when you guys started to have this conversation, right, 2002 'cause this is really when Sonos is founded. Yep. Would that have sounded like kind of a pipe dream to most people? Like right now if you said to me, you know, Hey guy, let's come up with something really cool. I would say, well let's do wireless electricity. Like let's, let's figure out how to power my, my blender without having to plug it in. Was it, it might not have been that kind of outlandish, but was it a little outlandish to be having that conversation in 2002?
+
+2 (18m 3s):
+Yeah, for sure. I mean, I was told by no end of people in the industry or outside of it, that that was crazy and it would never work. But we were pretty persistent. And keep in mind, I had been through this with the internet before, so I had some level of confidence that once you dived into something and you saw the trends going your way, you saw something someone else didn't. And so we felt pretty confident it would go that way. In fact, we thought it would move faster than it did. It usually took longer. Mm. For example, you look now at the cloud services, they were out the same time. We really got started and it was a wonderful thing, but people could not get their heads around getting their music out of the cloud.
+
+2 (18m 48s):
+It was right. It took a lot of incremental change like the iPod and the iPhone to get people to, you know, start having that expectation.
+
+0 (19m 0s):
+Yeah. And, and I mean, to that point, when you were first designing Sonos, where were you like thinking that the music would come from, I mean, I mean the iPod was in its infancy, right? Most people were still playing music off CDs at that point, so, so yeah, I mean where would the music come from? Would the, like would the user insert a CD into, into the system somehow?
+
+2 (19m 22s):
+It would come from a, the initial music source and the people we sold to had ripped their music collections. Right. So they had taken them and put them on their computer and they might listen to them on their computer. Yeah. But they had them available and then we would find them and play them. It took time until the services like Rhapsody or Pandora, you know, could really express all that was available. And that was really when it opened up for Sonos. But initially it was your ripped music collection.
+
+0 (19m 56s):
+You know, you could look at this as an example of starting something before the market is ready. Right? Yeah. Like, you know, there's so many stories of great ideas like the Apple Newton, right? Yeah. And this seems to me like it could have been one of those stories because there was no, I mean people weren't used to listening to music like this way and you know, probably well into the two or you know, the two thousands people were still playing music out their CD players. So did you ever hear from just people, maybe friends or people in the industry who were just saying, no one's gonna do this. Like, people are happy with their systems, they've got their speakers, they've got their CD players, like they like it.
+
+0 (20m 38s):
+No one's gonna, getting people to change that behavior is gonna be impossible.
+
+2 (20m 42s):
+Well the decade of marketing challenge for Sonos was if you tried it, you loved it. But trying to explain it to somebody as you're accurately pointing out Guy was really hard to do. Once they started seeing it, they were like, wow. Yeah, I mean I remember we had a great partnership with a WiFi chip company, outros. And I remember showing it to their management team and they were blown away. I mean, I remember the CEO saying, wow, I think I'm watching History made here. And he was a huge music lover. So he was right in the heart of the audience. It was always the case. If you tried it and or saw it, you loved it.
+
+2 (21m 25s):
+But trying to explain it to somebody until they'd done that was, was a challenge.
+
+0 (21m 31s):
+When we come back in just a moment, Sonos gets a rave review from a top tech journalist and a pounding from another titan of tech. Steve Jobs stay with us. I'm Guy Raz and you're listening to How I Built This.
+
+LinkedIn (21m 56s):
+As a business to business marketer, your needs are unique. B2B buying cycles are long and your customers face incredibly complex Decisions isn't a time you had a marketing platform built specifically for you. LinkedIn ads empowers marketers with solutions for you and your customers. LinkedIn ads allow you to build the right relationships, drive results, and reach your customers in a respectful environment you'll have direct access to and build relationships with decision makers. A billion members, 180 million senior level executives and 10 million C-level executives. 79% of B2B content marketers said LinkedIn produces the best results for paid media. And so many of the brands on How, I, Built This use LinkedIn to reach customers every single day. Make B2B marketing everything it can be and get a $100 credit on your next campaign. Go to LinkedIn dot com slash built this to claim your credit. That's LinkedIn dot com slash built. This terms and conditions apply.
+
+Squarespace (23m 2s):
+I've talked to hundreds of founders on How, I, Built This, and I've heard time and time again how important it is to have a strong web presence in order to really grow a business. Squarespace is an all-in-one platform for building a brand and engaging customers online. Squarespace lets you easily create a dynamic website and sell anything your products and services and even content you create. Squarespace makes it really easy to get started with best in class website templates for all types of businesses that can be customized to fit your specific needs. Squarespace also provides the tools you need to run your business smoothly, including inventory management, a simple checkout process, and secure payments. And with Squarespace email campaigns, you can build a community of email subscribers and customers. Start with an email template and customize it by applying your own brand ingredients like colors and logo. And once you send built-in analytics, measure your emails impact. Go to Squarespace dot com slash built for a free trial. And when you are ready to launch, use offer code built to save 10% off your first purchase of a website or domain.
+
+3 (24m 13s):
+Hey guy, my name is Christina and I live in Austin, Texas. I love every episode of your show, but if I had to pick a favorite, it would be your interview with James Dyson. Ever since listening to the episode, my favorite thing to say to people is, you know, Dyson didn't actually invent the vacuum, he just made it better. I thought the episode was such a great reminder that just because something exists doesn't mean that the idea is completely off the table. Something can always be done better. And when you open your mind up to that concept, the fact that you don't have to start from scratch to make something great, it means the possibilities are literally endless.
+
+3 (24m 54s):
+Thank you for all that you do. Keep up the good work.
+
+0 (24m 57s):
+If you wanna share your favorite episode of How I, Built This, record a short voice memo on your phone telling us your name, where you're from, what your favorite episode is, and why a lot like the voice memo you just heard. And email it to us at HIBT at id.wondery.com and we'll share your favorites right here in the ad breaks in future episodes. And thanks so much. We love you guys. You are the best. And now back to the show. Welcome back to How I. Built This. I'm Guy Raz. So it's around 2003, 2004. And John MacFarlane and his partners are trying to bring Sonos wireless speakers to life.
+
+0 (25m 43s):
+But to do that they need reliable WiFi. So they reach out to a company called Atheros for help.
+
+2 (25m 50s):
+The way WiFi was originally specked, you had these units, people generally think about them as their router in their house and you had to be a distance from that Yeah. For it to work.
+
+0 (26m 2s):
+And the farther you were, the slower it was. It still is, right?
+
+2 (26m 5s):
+Yeah. So we had to develop this technology called a mesh network. And that's why we needed that close partnership with Atheros to do that. And
+
+0 (26m 13s):
+A mesh network's basically a repeater sort of each unit is repeating the signal.
+
+2 (26m 18s):
+Yeah. It basically, as long as any one unit can see another unit, it all works. And making the mesh network work and then making it reliable was the heart of the matter in that. And that that was a big effort. Which had we not been successful, we probably would've stopped doing it. In the early days, WiFi was really unreliable in the home and you couldn't, you had to be reliable or you couldn't, you weren't gonna grow.
+
+0 (26m 47s):
+So in order for that to happen, you were essentially creating the wireless sys, like the hub was, you weren't relying on the home WiFi. And if they had it, great, if they didn't have it didn't matter because this system created this internal mesh network.
+
+2 (27m 3s):
+Yeah. 'cause the customers didn't have an IT department. Right. So you had the work. So yeah, it created a whole parallel network and worked around any imperfections you had in your network as well as it could. Okay.
+
+0 (27m 17s):
+You guys were, and I'm assuming you guys self-funded this because all of you made some money off of the previous startups. So you, you, you self-funded this at the beginning, right?
+
+2 (27m 27s):
+Yeah, we self-funded through the first big manufacturing run. We had an angel and then we took our first venture capital probably in 2005. Got it.
+
+0 (27m 39s):
+And John, just from a, from the business side, now you are all working out of an office in Santa Barbara, you're well capitalized 'cause you didn't have to raise money initially. What, what, I mean you were the CEO. Tell me why did you, were you best suited, maybe you can't answer this question. Sometimes I ask questions that are not, not the right question for the person, but why do you think you were best suited to be the CEO of the company? I know you were CEO of the previous company, you the founder of it.
+
+2 (28m 7s):
+I think I was just the dumb enough, dumbest person in the room to take the job. Hopefully I was inspirational enough and I held the bar high enough on certain areas that really mattered for the company. But you know, you talk about being well capitalized, you're never well capitalized as a hardware company. So yeah.
+
+0 (28m 28s):
+The costs are just so high, right? You're
+
+2 (28m 30s):
+Constantly worried about how much inventory you've built and how quickly you're getting paid and if you have enough cash on hand for the next Christmas season. So there, there's a lot to do there,
+
+0 (28m 43s):
+Right? 'cause you were, you were building software and hardware essentially, right? You were, you were both those things and you had to, presumably you had to find a place to manufacture the, the, the speakers. And, and, and I'm assuming you were started in Asia or that's where you went initially?
+
+2 (29m 1s):
+Yeah. I mean that's where it's a true team effort. Like rung my, the one of the co-founders really focused on getting the manufacturing and supply chain in place. And it turns out he's just incredible at building relationships. You know, one of the other co-founders, Tom worked on sales and marketing, another co-founder Craig did about everything else. And fortunately we had, we had a brought in of team Andy Schuler, who was one of the early people, put together the software team. And I would say, without each of these people, if we didn't have one of them, we wouldn't have been successful.
+
+2 (29m 44s):
+I mean, Sonos was a wonderful thing because everybody believed in the mission, fill your home with music, what a wonderful thing. Who doesn't want their home filled with music? And if you don't you probably weren't gonna work there.
+
+0 (29m 55s):
+Alright. So by this summer, I guess of 2004, you sort of figured out the work through the bugs and you had a good working prototype. And that year you were gonna unveil this thing at the all things digital conference. Yeah. Which was a big deal conference At the time. Walt Mossberg and Kara Swisher I think we're, we're doing that conference and you were gonna unveil this product at that conference. Take me there. What did you do? Were you doing the presentation? Were you being interviewed?
+
+2 (30m 29s):
+No, what we did was there was a room that all the interviews were done and then there was kind of a foyer that you went out and it's where you got food and drinks and stuff like that. Yeah. And we put those around the foyer so you could play with them. Our price point was too high at that point, but it deliver How much was
+
+0 (30m 49s):
+It? How much, how much was it at that point? Well,
+
+2 (30m 51s):
+Two players and the remote control was I think $1,300 or something.
+
+0 (30m 58s):
+So two, when you say two players, there's two speakers.
+
+2 (31m 1s):
+Well, At the time what we sold were two units that you connected to speakers. I see, okay. So they didn't have the speakers built in.
+
+0 (31m 8s):
+Got it. Okay. So it was a lot. It was expensive. Yeah,
+
+2 (31m 11s):
+It was. And Walt At the time had written reviews on
+
+0 (31m 15s):
+Walt. This is Walt Mossberg.
+
+2 (31m 17s):
+Yeah, Walt Mossberg had written reviews on similar units. So the goal was to get him really hooked. So he would write, if you recall, he had like the Wednesday column that was on the far right front page.
+
+0 (31m 30s):
+Massively influential people. Yeah,
+
+2 (31m 32s):
+I don't, and so the goal was to hook him so when it came out he would write, he would review it
+
+0 (31m 36s):
+Because he could make or break products At the time.
+
+2 (31m 39s):
+Yeah, he could. So we fortunately exceeded his expectations and he wrote a great review and everything went well from that. Yeah. At
+
+0 (31m 48s):
+That conference you had a confrontation with Steve Jobs?
+
+2 (31m 52s):
+Yes, that's
+
+0 (31m 53s):
+Correct. What happened?
+
+2 (31m 55s):
+Well he, I was standing actually with a bunch of the staff of the Wall Street Journal and Phil Schiller walked by
+
+0 (32m 3s):
+Phil Schiller. Remind me who Phil Schiller is.
+
+2 (32m 5s):
+Phil Schiller was their VP of marketing
+
+0 (32m 8s):
+For the, for the journal or for the Apple? For Apple. Okay.
+
+2 (32m 12s):
+And he walked by and I, I had known him I from a previous context and he said, you stay right there. And he went and got Steve Jobs and walked him over. And of course that was like bait for all the Wall Street Journal. But he walked right up to me and pounded on my chest and said they were gonna sue us out of existence for having a scroll ring on our remote.
+
+0 (32m 33s):
+He said that in front of all those reporters?
+
+2 (32m 35s):
+Yes, he did.
+
+0 (32m 36s):
+And was it covered, was it, was it published? Yeah.
+
+2 (32m 38s):
+Yep. Made the front page of the next day
+
+0 (32m 41s):
+That just, he was gonna sue you because you, 'cause you had a re At the time Sonos had a remote, an external remote that's, and it had a scroll wheel on it and he said that's copying their iPod or whatever. Right?
+
+2 (32m 53s):
+Yeah, that's exactly right. We had done it in parallel unknown that they were doing what they were doing. So really had no overlap with them at all.
+
+0 (33m 3s):
+So he was aggressive.
+
+2 (33m 5s):
+Oh very. Yeah. It was an interesting experience. And in fact I pushed back on him because we had been a little worried about that. So we had done our homework on filing some patents and understanding where their work was and I told him, well you, you have no grounds to stand on. There's nothing you can sue us over. And later I learned, he checked and had heard the same thing. And the relationship I had with him after that was all positive and he wasn't aggressive with me at all ever after that. So it just turned out to be the right way to handle Steve in that moment.
+
+0 (33m 42s):
+Because you would of course have other encounters with him Yeah. As a partner. So, so they never sued you?
+
+2 (33m 48s):
+They never sued us, no. Yeah.
+
+0 (33m 50s):
+Alright, so, so you get off to a great start. You've got this product, you get a good review from Walt Mossberg and presumably that's it, you're gonna start to ship these products shortly after.
+
+2 (34m 5s):
+Well that, that's a nice summary. What really happened was we were, we were running really hard to release the product. So we announced it in, I think that would've been June, 2004.
+
+0 (34m 17s):
+Yep.
+
+2 (34m 18s):
+We were really trying to make the holiday season and end of 2004, but we just didn't have the quality we felt we needed to have. So we had to postpone
+
+0 (34m 31s):
+The quality of what the, like the look of the machine or the look
+
+2 (34m 34s):
+Of the No, mostly around the wireless. So we just hadn't achieved quite the bar we needed. And we had some of the problems with latency and range that we hadn't worked all the way through. So we had to skip that holiday season. And of course you, you feel like you have to make that holiday season. In retrospect, it wouldn't have made any difference and we would've killed the company had we released the quality of product it was at at that time.
+
+0 (35m 2s):
+But because people would've said they would try to once, that would've been it.
+
+2 (35m 5s):
+Yep, exactly. And you had to have a great positive first experience if you're gonna build the brand on word of mouth. So we didn't ship until 2005.
+
+0 (35m 16s):
+And when you say ship, where were they being sold?
+
+2 (35m 19s):
+Well, like at that Wall Street Journal conference, we took pre-orders there and had a lot, 'cause you could put your hands on the unit, you could see and
+
+0 (35m 27s):
+Could you buy it directly from Sonos At the time
+
+2 (35m 30s):
+You could buy it directly from us. And by the end of the year we were in Best Buys. We were in, let's see, what was the chain that was on the East coast Tweeter, if you remember them.
+
+0 (35m 43s):
+Alright, so you have all this great response, this great reviews excitement in the industry. You started shipping them in January of 2005. It's 1300 bucks to buy buy one. So were they flying off the shelves?
+
+2 (35m 58s):
+They, I think we finished that year. Well above what we should have, well below what we had hoped for.
+
+0 (36m 6s):
+So not an overwhelming response to say the least.
+
+2 (36m 10s):
+Well, I mean zero to, I think we probably did 10 to 20 million that year. I mean, we had unrealistic, I mean a bunch of people coming from software and in a hardware business you can sell only as many as you make. Right. And only if they're in the right stores, in the right places where people wanna buy them. And so the whole logistics learning of how to get the units in this, I mean, a given Best Buy store might do really well, but then run out and then another store might have too many. And so learning how to manage Best Buy and all of that is a whole art in and of itself.
+
+0 (36m 48s):
+And who were these? I mean the first people to buy them, I mean, just the early adopters. These are people who were basically had digitized most of their music.
+
+2 (36m 57s):
+I mean, uniformly, they were music lovers and they wanted music around their home. So most of them had already digitized some amount of music for their iPod or whatever. And keep in mind, this is 2005 now. So the iPod had been out for two years. Yeah, 2006 I think was when we first integrated Rhapsody. So that's when you could literally play anything ever made on their service. By
+
+0 (37m 25s):
+The way, did Rhapsody, which, which doesn't exist anymore. It was eventually merged with Napster and, and you know, but it kind of fa faded away. It was a pioneer in, in like music. It was before Pandora, totally. Before Spotify, before iTunes. So Rhapsody was, if you could integrate that with Sonos, it was perfect.
+
+2 (37m 43s):
+Oh it was, that was the mindblower when you, I mean I remember we, when we got that integration working and we did a kind of press tour and we had a little hotspot, wireless hotspot. And so you could, you, you, you know, I went into Walt Mossbergs office and said, what do you wanna listen to? Anything ever made? Wow. And of course when you say that to somebody, they're gonna challenge you, you with some very esoteric something and it would just blow people's minds. And I mean, we had reviewers who would, okay, what's the trick here? Where's the, you know, where, where's the hard drive?
+
+2 (38m 23s):
+There isn't one. It's in the cloud. So that was a big paradigm shift for sure.
+
+0 (38m 28s):
+And, and again, and this is pre-phone, so, but still now you had, if your computer was connected to the Sonos system, uses a Rhapsody on it, and then you were good to go and, and you and this, and you still used a, an external remote control, right?
+
+2 (38m 44s):
+Right. When we very first demonstrated Rhapsody, you needed a computer in the middle, but pretty quickly the Sonos could reach out to the Rhapsody services and do it all directly without a computer involved at all.
+
+0 (38m 59s):
+And you could also pr I mean iTunes had been out by that point, I think. Yes. Could you use iTunes with the Sono system?
+
+2 (39m 6s):
+Well that's, that's where it got a little complicated because iTunes had that digital rights management. So if you bought an iTunes track, you couldn't play that. But if you used iTunes to play your ripped music, you could. So that was friction for sure. And we had back and forth with Apple about using the DRM, but then they took it off. So then it didn't matter.
+
+0 (39m 28s):
+So initially if you, if you bought music from iTunes, you could not hear it through a Sonos speaker. Correct.
+
+2 (39m 34s):
+That's
+
+0 (39m 34s):
+Crazy.
+
+2 (39m 36s):
+Yep.
+
+0 (39m 36s):
+Wow. So they created a walled garden.
+
+2 (39m 39s):
+They did.
+
+0 (39m 40s):
+Okay. So, alright, so you've got the iPad, iPhone comes out in 2007, but what's about to happen is a global financial crisis. Yeah. Which is two s in 2008. I shouldn't, I shouldn't chuckle, but that is going to, I mean that obviously, you know, was even worse than the.com bubble at Burst bust, I should say. And, and I, I, from what I read, it really had a massively negative impact on sales for Sonos.
+
+2 (40m 13s):
+Well it, we went from like a hundred percent year on year growth or Yeah. To I think 2008 we grew 10% or wow, maybe, you know, we grew but not that much. So we definitely had to temper things and select what we were working on. And it was scary. I mean, it really started the end of 2007, if you recall. That's when the global financial crisis started rippling through. So the information we had to see what was happening was the, the first player was being set up and when you set up a Sonos, it would radio in and say, Hey, I got set up.
+
+2 (40m 55s):
+Is there any new software for me? And then we'd prompt you, hey, you know, there's a, there's a later version of software, do you want to download it?
+
+0 (41m 2s):
+Oh, right. When someone would set up at their home, you could see how many people are setting it up.
+
+2 (41m 7s):
+Yeah. And they went to zero. Near zero. Wow. It dropped like off a cliff. Yeah. And so we re-planned. We had a wonderful guy running the commercial side of the company, At the time. And he just sat down and really worked his way through it. That was also the year that would've been 2008. So we released the iPhone controller, which helped because that made the, the purchase cost lower
+
+0 (41m 34s):
+On the app store. Yeah.
+
+2 (41m 36s):
+So now you could buy Sonos units without the controller and use your iPhone. And that helped
+
+0 (41m 42s):
+That that cut cut your costs presumably because you have to produce
+
+2 (41m 45s):
+The Yeah, that's
+
+0 (41m 46s):
+Exactly right. The remote. And I guess really the way out of that hole, or one way outta that hole was to basically make a cheaper product or a less expensive product, which was the, the Play five, right? That was, it was like a third. The price of what a So 'cause a Soto system was really expensive in 2009. It was like 1200 bucks.
+
+2 (42m 4s):
+Well that, that's not a system. That's a combination of that's a bundle. Right. But
+
+0 (42m 9s):
+It, I'm not criticizing, I'm just saying understandably it was expensive.
+
+2 (42m 15s):
+Yeah. And a Play five, which came out in 2009 really opened up the growth. And you're right, it was, it was easier because before that you had to buy a unit, you had to buy speakers, you had to connect the speakers to the unit, and the Play five was all in one. So you bought it, you plugged it in and it just worked. Yeah. And so, you're right, it was less expensive. It was easier to use. It just made more sense all the way around.
+
+0 (42m 42s):
+And that had a huge impact. Right.
+
+2 (42m 44s):
+It did. It, we grew a bunch that year.
+
+0 (42m 47s):
+Okay. I, I mean at, at around this time. I mean, you're, you're kind of peerless, right? I mean, you did not have any significant competitors making quality home wireless speakers, did you?
+
+2 (42m 60s):
+Well, I would say no, there were competitors, but they were all traditional audio. So Phillips had a product that competed against us. Yamaha had a product, Sony had a product. There were a variety of, there were a couple of startups that competed, but none of them worked well. So I wouldn't say we were alone. But, you know, if you were reviewer who was competently, you weren't, you were gonna rank us first.
+
+0 (43m 29s):
+What, what was the, I mean, as you started to really dominate this category, te tell me about a little bit about the strategic thinking. Because when a, when a, when a brand starts to dominate a category, it can actually be a really a dangerous time because that's when you start to get comfortable. And that's when you start to say, okay, you know, we're bulletproof. But of course that almost never happens. Companies very rarely dominate for a long time. What do you remember about the internal conversations about how you were gonna innovate? I mean, you could make better quality sounding speakers or make it even easier to set up, but those seem incremental to me.
+
+0 (44m 14s):
+What, what were the big swings for the fences you guys were talking about at that time in 2010, 11?
+
+2 (44m 21s):
+Well, at that time, first off, we didn't feel like we were dominating. 'cause it's a global market and every country, everywhere on the planet had its own complexities, including the music companies licensed at that time by country. So while Spotify was available in Sweden, it wasn't available anywhere else. Yeah. And Rhapsody was available in the US but it wasn't available outside of the us.
+
+0 (44m 51s):
+And the success of Sonos really depended in your view on those, on the proliferation of these streaming services.
+
+2 (44m 57s):
+You would, the best experience by a long shot you would have is if you had Sonos with those streaming services. You know, otherwise you had the complexity of having a ripped library. So I didn't feel, I don't think we ever viewed it as dominating the marketplace. We just saw so much to do.
+
+0 (45m 17s):
+So, so did you, did you think of yourselves as a, I mean, know, you know, the mission statement was like music, what was it? Music. Fill your home with music, fill your home with music, which it's, it's great. It's very simple. Clear. Fill your home with music. That's what we do. Did you think of your company, your, of Sonos as as like a JBL or a Dolby or like, when they were at their peak, you know, like did you think of your, your, did you think of those as the gold standard that you were trying to achieve?
+
+2 (45m 45s):
+No, you've gotta keep in mind, we, I mean, I remember at the CES show in 2005 when we released, a guy came over, I think it was from Yamaha, and asked the people that were working the booth, you know, how many inputs do you have? And the person answered, well, an infinite number 'cause we have an internet connection. And he said, well, how do you have an infinite number? You don't have enough, enough connectors on the back. So the traditional audio market that you're mentioning, we didn't really view them at all in the same mindset as us. While they did fill the home with music, they just, you know, it was usually the B or C team.
+
+2 (46m 29s):
+TVs were much more popular home theater receivers. So they were just kind of on autopilot. And what we were worried about is that Apple, Amazon, and Google would ultimately get into this space. And they understood software. Clearly. They had a global footprint, they could do an amazing job. So we knew down the road we would compete, be competing with them. We didn't know when, we didn't know how. So we were more playing scared. And through that period of, you know, when does I at least I can speak for myself, when does Apple enter? If they did a great product, they could put a lot of hurt on us.
+
+0 (47m 11s):
+When we come back in just a moment. What happens to Sonos after Alexa and Siri enter the home speaker market and why? After leading the company for 15 years, John decides to step away for good. Stay with us. I'm Guy Raz and you're listening to How I. Built This.
+
+Miro (47m 38s):
+This episode is sponsored by Miro. If you haven't heard of it, Miro is an incredible online workspace. Our team relies on Miro for a lot of our own brainstorms and processes. And I think it's super useful to try out, if you wanna build something great with your team, one of my favorite features is the Miro verse. It's this collection of over 2000 pre-made templates made by ordinary Miro users for all sorts of use cases like collecting feedback, running meetings, icebreakers, it saves you the hassle of building from scratch. We actually partnered with the folks over at Miro to create a how to build a podcast, Miro versus template. To help you kickstart your journey on making your own podcast. Check it out and let me know what you think. You can find our template@miro.com slash HIBT. That's MIR o.com/ HIBT. That's MIR o.com/ HIBT To check out our Miro versus template for yourself.
+
+NetSuite (48m 41s):
+Your business gets to a certain size and the cracks start to emerge. Things you used to do in a day are taking a week. You have too many manual processes, you don't have one source of truth. If this is you, you should know these three numbers. 37,000 25, 1 30 7,000. That's the number of businesses which have upgraded to NetSuite by Oracle 25 NetSuite turns 25 this year. That's 25 years of helping businesses do more with less close their books in days, not weeks. And drive down costs. One, because your business is one of a kind. So you get a customized solution for all of your KPIs in one efficient system with one source of truth, manage risk, get reliable forecasts and improve margins. Everything you need to grow all in one place. Right now. Download NetSuite's popular KPI checklist designed to give you consistently excellent performance absolutely free at NetSuite dot com slash built. That's NetSuite dot com slash built to get your own KPI checklist NetSuite dot com slash built.
+
+0 (50m 2s):
+Hey, welcome back to How I. Built This. I'm Guy Raz. So it's 2015 and after 10 years Sonos has become a force in home audio, but another force is coming. Smart speakers, Amazon launches the Echo and Sonos is suddenly competing with a bot named Alexa.
+
+2 (50m 22s):
+Right. You know, I was actually probably too blase about it. I had paid attention to the voice recognition market forever and it consistently underdelivered and underperformed. So I looked at it more as a gimmick than I did as a real thing I would say. They went to, they, they made the cardinal mistake of trying to go after everything and under-delivered on everything. And since it's a, you know, first impression thing, you see it in their numbers, people try it, but that they don't keep coming back and doing it or grow their use. So I think the promise of of voice response for music is in the home, is still ahead of us, not really behind us
+
+0 (51m 6s):
+Even today.
+
+2 (51m 7s):
+Yeah, I would say that.
+
+0 (51m 8s):
+Alright. But they, but they were so, but just going back to that time, right? I mean, yeah, this is a new technology. Clearly Amazon had cracked something.
+
+2 (51m 17s):
+Yep, no question about that.
+
+0 (51m 19s):
+And then you'd have Siri that would come out. Yep. Right. Come out around that time they'd cracked something and it was different. It was better. And you, and oftentimes in an, an industry when a com, you know, a competing product comes out that just all of a sudden, you know, it's like, it's like the Blackberry, like the Blackberry, when when they first saw the iPhone, they were like, eh, yeah. They
+
+2 (51m 40s):
+Didn't respond.
+
+0 (51m 41s):
+Yeah. Nah. But, but then people were like, we gotta make a smartphone. And then they'd scrambled and eventually they did. Which, and we know the, the end of that story.
+
+2 (51m 50s):
+Yeah. They didn't make a great one.
+
+0 (51m 51s):
+Did a part of you feel like we better make a smart speaker right now because we're gonna be put out a or or no?
+
+2 (51m 58s):
+Yeah, for sure. I mean, when, when, when I finally woke up to what the echo was,
+
+0 (52m 5s):
+How long did that take you to wake up?
+
+2 (52m 7s):
+A few months.
+
+0 (52m 8s):
+Okay.
+
+2 (52m 8s):
+And then I, you know, really pulled hard on the whole company to realign us around smart speakers and voice assistants.
+
+0 (52m 17s):
+How were you? But that means you would have to develop your own voice recognition system.
+
+2 (52m 22s):
+Well, at that time I thought that was a probably bad idea because Amazon, Google and Apple with Siri were clearly running that down hard. So what the positioning we took was to be compatible with all of those, integrate with them just like the music services such that you'd use the voice assistant for selecting which music you wanted, but we would be the person filling your home with music. But
+
+0 (52m 53s):
+It sounds like you were relying on the brand that Sonos to consumers meant crystal clear quality. It does. It's a good quality brand. And no one, I think everyone thinks of Apple, Amazon, and Google as quality brands, but nobody necessarily thinks of them as great speaker companies. So were you, in your mind, did you think that's really what our value proposition's gonna be? Even if these companies try to crush us, we'll be okay because people will think of us as the quality way to listen to music.
+
+2 (53m 27s):
+Yeah, I mean a brand gives you certain permissions, so, but you have to then follow up and deliver on that. And I think Sonos stayed true to its roots and continues to do a great music experience. And as it does that, I think that works. I think Apple of all those brands has the brand permission to do a great home music experience, but they've got so many other things to do. They haven't really done that. Yeah.
+
+0 (53m 55s):
+This would be a tiny p and l for them. It's not worth their time. Yeah. Alright. But buy early 2016, Amazon's echoes started to eat into sales of Sonos. And this is a fact, this has been written about, it's been chronicled. You guys had to announce layoffs. I mean the echo Whether, you liked it or not, it did have an impact on your business. Yeah.
+
+2 (54m 19s):
+Unquestionable.
+
+0 (54m 20s):
+And that, I mean, so either they were doing something right or maybe the price point was right or something. I mean, how, how did you respond to that?
+
+2 (54m 29s):
+We really focused the company around embracing voice assistance.
+
+0 (54m 35s):
+That was expensive probably to, to start to work on that. Yeah,
+
+2 (54m 38s):
+For sure. It always is when you start something new, but you just have to ask yourself, is this a better way to, you know, fill your home with music and it, and we felt it was so we put the work in. Right,
+
+0 (54m 50s):
+You did because you eventually, you were able to, to integrate voice assistance into your speakers I think, I think first around 2017, right? With a system that integrated with Amazon's Alexa and then, and then not long after that it, you could do it with the Google and the Apple devices too. So, I mean, so when all that happened, I imagine it, it stopped some of the bleeding.
+
+2 (55m 17s):
+Hard to say maybe because if you wanted a Sonos and you wanted a voice assistant, you could, you could have that. Whereas before in, you know, 2 20 15, you had to choose one or the other. Yeah. And it was after I left, so I was uninvolved in it. And I don't know any of the inside, but I think they just felt it. I you, you know, as I've told you in my view, the voice assistant still, you know, their time is coming. I think they were just too early. Like now you see the startup companies trying to integrate voice assistants with the AI stuff and do I believe in that? Yes. You know, is that 10 years away or is it two?
+
+2 (55m 59s):
+That's the question. Right.
+
+0 (56m 2s):
+So that, that year I imagine was a, a tough year. I think, I think you, you had thought about stepping down already from, from, from what I gather in part because your, your wife was, was actually battling breast cancer and your parents were getting older. You would, you would want it to step down earlier. Right. But, but that year was a challenging year, 2016. And it, it kind of delayed your plans a little bit.
+
+2 (56m 33s):
+Yeah. More I'd say with my wife's breast cancer and my kids are teens and it, I I sprinted the marathon, if you'll put it that way. Yeah. I mean, I was always really good at keeping a little bit of reserve and never trying to sprint a section. I sprinted and I just burned myself up. And so I just found myself not the person I wanted to be at work. I would, you know, I'd be angrier, I'd have a shorter attention span. I I wasn't enjoying it as much. And on top of that, I wanted to su successfully lead the change to embracing voice assistance.
+
+2 (57m 15s):
+'cause As, you can imagine there was a quite a bit of debate over whether we should go that way or not. And so you don't really wanna leave that half, that effort, half finished. And I didn't really realize when I was burned out that I was burned out. It took a little time to have that perspective
+
+0 (57m 33s):
+When, when you were feeling like you were burned out. Right. And you're leading the company, so you've gotta show up one face because you've got th Yep. Thousand or more employees at this point, right. By 20 17, 1400 employees at least
+
+2 (57m 48s):
+Probably in that range. Yeah.
+
+0 (57m 49s):
+And, and you're doing over a billion dollars in sales. You brought the company to over a billion dollars in sales. But, but here you are internally feeling stressed out and burned out.
+
+2 (58m 3s):
+Yeah. One thing you realize is, you know very well when you're leading people, you bring them through your ups and downs. Yeah. So you really have to be mindful of that so that you're, when you're having a down or you're having an up. You don't bring them all the way with you. And as a leader, you wanna be that, you wanna choose optimism. And I found myself, after 25 years of startup companies, I was looking more for the nega, the downsides than I was the upsides. Yeah. And that's, I just didn't want to be that per I, I'd run into people like that. I didn't want to be that person. And that's not the person you want leading you. You, you want, you want the person that's seeing the nine outta 10 upsides, not the nine out 10 downsides, if you will.
+
+2 (58m 49s):
+You were
+
+0 (58m 50s):
+Becoming the person that you encountered in 2002 who said to you, oh, this can never be done.
+
+2 (58m 54s):
+Exactly. Exactly. And who wants that in the company? Right.
+
+0 (58m 60s):
+But that's the cycle. Right. That's the perfect cycle of human, the human experience. Right.
+
+2 (59m 5s):
+And that's fine. But that was my turn. I was done.
+
+0 (59m 9s):
+Yeah. But even that, right. Recognizing that is one thing and then deciding to step down is another thing. 'cause this 14 years of your life, you'd started this company. Now you didn't need the money. You were, were financially set even before this started. So it's, it wasn't about the money, but it was about the purpose. It was about going in, it was about your colleagues. It was about, you know, people looking to you for affirmation. Yeah. And giving that up is very hard.
+
+2 (59m 35s):
+You know, my ego was not based around that. I really, I wanted the company to be successful 10 times more than I wanted to be the leader of the company. I had kind of decided, and I shared with board members of maybe six months before we did the official transition in January. So Patrick was kind of running the company already. So when I stepped out and he stepped into the CEO role, I didn't, I didn't want to be in a position where I was second guessing what Patrick was doing. Yeah. I mean, when I left, I didn't stay on the board. 'cause who wants to have the founder of the board sitting on the board of the company that you're running
+
+0 (1h 0m 20s):
+Happens every day. But I hear you.
+
+2 (1h 0m 23s):
+I know, but I, I wanted to give the company its best shot at being successful. And if they needed my help, they'd call me. Yeah. And I'd be happy to help. And if they didn't, they wouldn't. And you know,
+
+0 (1h 0m 34s):
+That would be fine. That's,
+
+2 (1h 0m 35s):
+That's, yeah, that's fine. Time to step out.
+
+0 (1h 0m 39s):
+So you literally went from being the CEO one day to the next stage just going home and waking up the next morning and you didn't have an agenda or a calendar pre-populated for you?
+
+2 (1h 0m 51s):
+No, no. It was wonderful. I mean, I guy, I, I love reading, I've always been a reader. Yeah. But for 25 years, you would pick up the book by the side of your bed and you'd start reading in five pages and you'd fall asleep and then you'd pick it up the next day and you'd have to reread three of the five pages. And that just was no fun. I I, I mean, I distinctly remember after leaving Sonos in January and re being able to read a book from start to finish in the middle of the book thinking, geez, I'm such a loser. I should be doing something more productive. So I, I definitely had to deal with those feelings of disconnect too.
+
+2 (1h 1m 33s):
+But it was, it was fantastic to be able to read a book. Yeah. I mean, I remember my wife and I, Patty would take a walk and I would get phone calls during the walk, which would drive her crazy. And after I was out of there, I went with her for a walk and, and her, she had signed up for a bunch of boards and her phone was ringing off the hook and my phone didn't ring that whole walk.
+
+0 (1h 1m 59s):
+Yeah. And how's Patty's health, by the way?
+
+2 (1h 2m 2s):
+Good. She got all the way through it and hasn't had any complications.
+
+0 (1h 2m 6s):
+That's great.
+
+2 (1h 2m 7s):
+Yeah. Thank you.
+
+0 (1h 2m 10s):
+Yeah. Yeah. I, I mean probably since your departure, and as I say, I mean you, you, you got it to over a billion dollars in sales and a huge staff, I mean, created this an incredible brand. And to me, the, the, the story, and I think, I think probably everybody there would acknowledge it, you know, you, your time there helped set them up for success. Because really Sonos could have been like TiVo, Sonos could have been like, you know, a product that everybody used for a short period of time, like the Blackberry. And then it went, it got crushed and it didn't.
+
+2 (1h 2m 47s):
+Yeah. Well first off, I only got it to ba Josh shy of a billion. Patrick really carried it through a billion and through 2 billion. So, you know, if I got the foundation set up correctly, then good, that's how, what I should have done. But they carried it past that.
+
+0 (1h 3m 5s):
+But the fact that it's making products that still compete and more than compete with, you know, the Google speaker and the Amazon speaker and the Apple Speaker, and some people have all those things. I mean, I've got, you know, different ones is pretty remarkable because Sonos is a tiny company compared to those giant companies.
+
+2 (1h 3m 25s):
+True. But you're not really competing against the whole company. You're competing against the section that's making a competitive product. TiVo was a great company, but never decided, was it a product, was it a service? Which is it, is it both? And as the idea becomes mainstream, you've really gotta do that and dive deeply. And the companies that survive do that Well, and the companies that don't, don't. And I think, I think Patrick has done a wonderful job of staying on that.
+
+0 (1h 3m 54s):
+Yeah. Do you think that it's, it, I mean you mentioned that it's, you think it's healthy for founders to make a break. Right. And I, I, I, I think there's something to that. I mean, although there are founders who've been on the show who disagree, who would say, no, you, you don't wanna stay in mentor, stay around and be a resource and whatever. What, whatever it is. Yeah. Whatever that perspective might be. But you must still, it's Santa Barbara's a small town. You must run into people all the time from the old days or who still work there or, or not. Or maybe you don't. I don't, well
+
+2 (1h 4m 25s):
+It's funny actually, a lot of people I run into that work there, I don't know. So, you know, seeing a, sitting next to somebody talking about Sonos or seeing a Sonos jersey and not knowing the people you know, happens. I mean it's like staying in your child's life. Yeah, that's true. There is a period of time where you need to be prescriptive about things, you know, don't cross the busy road. And there's times when that kind of prescriptiveness is just gonna hinder their development. And I think for me and Sonos, it was just far better to keep my fingers out of it. And of course if the company fails after I leave, that's not great on me.
+
+2 (1h 5m 10s):
+Right.
+
+0 (1h 5m 11s):
+Yeah. When you think about the journey you took and, and all of the ups and downs and where you got to today, how much do you attribute it to the, the work and grind you put in and how much do you think had to do with timing and luck?
+
+2 (1h 5m 27s):
+Oh boy. Timing and luck is so critically important because as you pointed out, there are lots of companies that had their timing wrong. So I would say timing is may, maybe it's 80% and hard work is 20. You gotta put the hard work in 'cause the luck comes your way when, I mean, I'm sure it's the same for you guy. If you don't put the work in, the opportunities aren't gonna come and you're not gonna grow. But boy, if your timing isn't right, it's those two things are not gonna get you across the finish line.
+
+0 (1h 6m 0s):
+That's John MacFarlane, former CEO and one of the founders of Sonos, by the way, the very first song played through a Sonos speaker was chosen by John himself on a day when some of the first units were being worked on. And according to company lore, that song was The Beastie Boys No Sleep Till Brooklyn.
+
+2 (1h 6m 21s):
+That's all true. It just fit. These were the first units that were fully assembled. We had a room that had the quality assurance team in it and they were really trying to beat it up. And I thought that was the appropriate song. 'cause they had a lot of work ahead of them. So I played it full volume for them in that room. Nice.
+
+0 (1h 6m 43s):
+Hey, thanks so much for listening to the show this week. Please make sure to click the follow button on your podcast app so you never miss a new episode of the show. And as always, it's free. This episode was produced by Katherine Cipher, with music composed by Rum Arablouei. It was edited by Neva Grant with research help from Sam Paulson. Our production staff also includes JC Howard, Casey Herman, Carrie Thompson, Alex Chung, John Isabella, Chris Masini, Carla Estevez, and Malia Aguello. Our engineers were Robert Rodriguez and Josh Newell. I'm Guy Raz and you've been listening to How I Built This.
+
+0 (1h 7m 24s):
+If you like How I Built This, you can listen early and ad free Right now by joining wondery Plus in the Wondery app or on Apple Podcasts. Prime members can listen ad free on Amazon Music. Before you go, tell us about yourself by filling out a short survey at Wondery dot com slash survey.
+
+5 (1h 7m 43s):
+Some people take the straight path in life, but at Arizona State University, we respect your twists and turns. They make our online students more driven to excel in their professional lives. That's why our personalized suite of services empowers you with innovative resources and staff that sticks with you. Make your next turn with one of our 300 plus programs at a SU number one in innovation for nine consecutive years. Visit us@asuonline.asu.edu to learn more.
