@@ -10,7 +10,7 @@ Image by [Marco Oriolesi](https://unsplash.com/photos/birds-eye-view-of-sitting-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rjuro/unistra-nlp2024/blob/main/notebooks/UNISTRA-01-NLP101-Classification.ipynb)
 
 
-**Political Tweets - Simple Classifier: A Refresher in NLP**
+## Political Tweets - Simple Classifier: A Refresher in NLP
 
 Welcome to this tutorial designed to give you a fresh update in Natural Language Processing (NLP)! In this project, we perform simple text classification to predict the political leaning of tweets. Our goal is to create a model that can accurately classify tweets as either Republican or Democratic using a Logistic Regression pipeline trained on preprocessed data.
 
