@@ -1,5 +1,4 @@
-baseURL = 'https://example.org/'
-title = 'Unistra NLP and LLM Workshop 2024'
+baseurl = "https://example.com/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
@@ -16,8 +15,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "NLP/LMM"
-    subtitle = "An NLP and LLM Workshop"
+    title = "Hello Friend"
+    subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -31,7 +30,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "UNISTRA NLP/LLM"
+      logoText = "hello friend"
       logoHomeLink = "/"
     # or
     #
