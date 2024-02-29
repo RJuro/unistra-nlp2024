@@ -21,5 +21,5 @@ Create your personal wine expert with LangChain and dive into the world of wine 
 
 Image by [Chase Clark](https://unsplash.com/photos/woman-using-gray-binoculars-T69h1_YfR-w)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rjuro/unistra-nlp2024/blob/main/notebooks/UNISTRA-06-SelfQuery-Retriever.ipynb.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rjuro/unistra-nlp2024/blob/main/notebooks/UNISTRA-06-SelfQuery-Retriever.ipynb)
 
